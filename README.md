@@ -8,7 +8,7 @@ This website is a marketing agency.
 * CSS
 
 ## Website
-https://rpkrupali1.github.io/hori-sean/
+https://rpkrupali1.github.io/hori-seon/
 
 ## Contribution
 Made with ❤️ by Krupali
