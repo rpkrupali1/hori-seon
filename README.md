@@ -1,4 +1,4 @@
-# Horisean Inc
+# Horisean, Inc
 
 ## Purpose
 This website is a marketing agency.
